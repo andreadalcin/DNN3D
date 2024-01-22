@@ -1,0 +1,6 @@
+[submodule "AdaBins"]
+	path = AdaBins
+	url = https://github.com/shariqfarooq123/AdaBins.git
+[submodule "DICL"]
+	path = DICL
+	url = https://github.com/jytime/DICL-Flow.git
