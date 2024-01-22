@@ -1,6 +1,7 @@
 [submodule "AdaBins"]
 	path = AdaBins
 	url = https://github.com/shariqfarooq123/AdaBins.git
-[submodule "DICL"]
-	path = DICL
-	url = https://github.com/andreadalcin/DNN3D-DICL.git
+
+[submodule "DICL1"]
+	path = DICL1
+	url = https://github.com/andreadalcin/DNN3D-DICL
