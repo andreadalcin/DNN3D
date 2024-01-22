@@ -1,6 +1,7 @@
 # clone submodules
 
 # conda create environment
+conda create --name DNN3D python=3.11
 conda activate DNN3D
 
 # install requirements
