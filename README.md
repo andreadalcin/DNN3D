@@ -1,3 +1,6 @@
+### Miniconda Install
+https://docs.conda.io/projects/miniconda/en/latest/
+
 ### AdaBins Weights
 https://drive.google.com/drive/folders/1nYyaQXOBjNdUJDsmJpcRpu6oE55aQoLA?usp=sharing
 
